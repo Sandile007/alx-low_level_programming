@@ -1,2 +1,1 @@
-# alx-low_level_programming
-My C programming
+My first C Programming in ALX
