@@ -1,1 +1,1 @@
-C Has Tables
+Hash Tables
